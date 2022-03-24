@@ -1,0 +1,13 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tom19960222/html-to-pdf.git",
+  "author": "Ikaros <tom19960222@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "puppeteer": "^13.5.1",
+    "yargs": "^17.4.0"
+  }
+}
